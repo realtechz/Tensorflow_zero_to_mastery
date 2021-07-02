@@ -44,7 +44,7 @@ used as the name suggests
 **tf.abs, tf.reduce_sum(), tf.reduce_min(), tf.reduce_mean(), tf.reduce_max(), tf.argmin(), tf.argmax(), tf.squeeze()**
 
 **tf.one_hot(some_list, depth = len(some_list), on_value = "x", off_value ="o"):** <br>
-this onehot encode variables 
+this onehot encode values
 
 
 
